@@ -10,7 +10,7 @@ using namespace std;
 
 void welcome()
 {
-    cout<<"\t\tHellow!\nI will transpose your matrix!\n\n\n";
+    cout<<"\t\tHello!\nI will transpose your matrix!\n\n\n";
 };
 int main(int argc, const char * argv[]) {
     int n, m;
